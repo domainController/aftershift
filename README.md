@@ -1,5 +1,3 @@
-# AfterShift.se
-
 **Legal Tactics & Administrative Tricks from the Backend of Swedish Kitchens**
 
 AfterShift.se is an independent archive of real-world documents, strategies, and observations from within Sweden’s kitchen industry — primarily in Malmö and Stockholm.  
